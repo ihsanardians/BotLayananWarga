@@ -73,6 +73,13 @@ Buka alamat lokal yang ditampilkan Streamlit, biasanya `http://localhost:8501`.
 
 Tautan ngrok bersifat sementara dan aktif selama runtime serta proses terkait berjalan.
 
+## Tampilan Chatbot
+
+<img width="1906" height="911" alt="Screenshot 2026-10-25 211355" src="https://github.com/user-attachments/assets/37c8c1eb-390e-43bb-aacd-91d970b64fcd" />
+
+<img width="1902" height="907" alt="Screenshot 2026-10-25 212747" src="https://github.com/user-attachments/assets/9b54dd9a-c110-4170-adbe-80039dd9d4b1" />
+
+
 ## Batasan dan keamanan
 
 - Proyek ini bukan layanan resmi pemerintah.
@@ -92,4 +99,4 @@ Verifikasi persyaratan, biaya, dan jadwal melalui kanal resmi instansi terkait.
 
 ## Lisensi
 
-Lisensi proyek belum ditentukan.
+Milik Pribadi.
